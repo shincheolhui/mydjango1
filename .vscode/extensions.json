@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "batisteo.vscode-django",
+    "Glavin001.unibeautify-vscode",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme"
+  ]
+}
